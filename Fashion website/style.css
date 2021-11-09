@@ -1,0 +1,7 @@
+button{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing:1px;
+    text-align:center ;
+    cursor: pointer;
+    background-color: darkmagenta;
+    color: darkred;}
